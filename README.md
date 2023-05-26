@@ -1,4 +1,2 @@
-# dashboard-hea
-Happily Ever After dashboard code
+## Please feel free to pull a request in case you see any errors in the project's dashboard at https://desci.world/dashboard
 
-```{"_id":{"$oid":"635b53500b57f22ac9a041d7"},"name":"Happily Ever After","tokenSymbol":null,"DaoOS":null,"address":null,"description":"Happily Ever After is a community with a single purpose: to help people live longer, healthier and happier lives.","whitePaperLink":"https://mirror.xyz/blog.heacare.eth/4zJjwIysK6jJKCQdAiou9kHB_GuZ8W0gHMAouZVB2uE","gallery":[{"name":"Intro","description":"Intro","mediaUrl":"https://i.imgur.com/dYl1xdN.jpg","source":"image","link":"https://mirror.xyz/blog.heacare.eth"}],"deleted":false,"primaryColor":"#f38ec0","twitterHandle":"hea_care","coingeckoId":null,"snapshotId":null,"logo":"https://i.imgur.com/yaPoXEv.jpg","telegramLink":null,"discordLink":"https://discord.com/invite/MsZVV6Z3sU","website":"https://hea.care/","tokenDescription":null,"tokenTradeLink":null,"tags":["Ecosystems"]}```
